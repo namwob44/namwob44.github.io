@@ -17,8 +17,10 @@ permalink: /Publications/
 
 ## 2022
 -	Tao L., **Bowman M.**, Zhou X., Zhang J., & Zhang X. (2022). Learn and Transfer Knowledge of Preferred Assistance Strategies in Semi-Autonomous Telemanipulation. Journal of Intelligent & Robotic Systems, 104(3), 1-16.
+  
 ## 2021
 - Tao L., **Bowman M.**, Zhang J., & Zhang X. (2021). Forming Real-World Human-Robot Cooperation for Tasks With General Goal. IEEE Robotics and Automation Letters, 7(2), 762-769.
+
 ## 2020
 -	Miles LA*, Bowman RL*, Merlinsky TR, Csete IS, Ooi AT, Durruthy-Durruthy R, **Bowman M**, Famulare C, Patel MA, Mendez P, Ainali C, Demaree B, Delley CL, Abate AR, Manivannan M, Sahu S, Goldberg AD, Bolton KL, Zehir A, Rampal R, Carroll MP, Meyer SE, Viny AD, Levine RL. (2020) Single-cell mutation analysis of clonal evolution in myeloid malignancies. **Nature**. 2020 Oct 28;. doi: 10.1038/s41586-020-2864-x.
 -	Li S., **Bowman M.**, Nobarani H., & Zhang X. (2020). Inference of manipulation intent in teleoperation for robotic assistance. Journal of Intelligent & Robotic Systems, 99(1), 29-43.
