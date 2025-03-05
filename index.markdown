@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Welcome to ARROW Lab!
 
 The research goals of this lab are to take a system's level view of teleoperation to improve the robustness of assistive robotics and prosthetics. The modules we explore are human intent inferencing, autonomous robotic policies, and shared control to mix human and robot policies.![](/imgs/Main_figure.pdf){: style="float: middle"}
 
