@@ -4,6 +4,7 @@ title: Publications
 permalink: /Publications/
 ---
 
+My google scholar is available [here](https://scholar.google.com/citations?user=Op1LFLkAAAAJ&hl=en&oi=sra)
 
 ### Accepted Peer-reviewed Journal Articles
 
