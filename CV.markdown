@@ -62,19 +62,18 @@ I am a Postdoctoral Researcher in the Cancer Biology Department in the Perelman 
 | Linux/Unix | Arduino         |
 
 ## Wet lab skills
-| Bench Skills				  |
-| --------------------------------------- |
-| DNA extraction                          | 
-| Bone Marrow and Spleen isolation        | 
-| Lentiviral production                   |
-| Plasmid bacteria production             |
 
+| Bench Skills                     |
+| ---------------------------------|
+| DNA extraction                   | 
+| Bone Marrow and Spleen isolation |
 
 ## Awards and Grants
 * 2023 Colorado School of Mines Mechanical Engineering Emeritus Faculty Graduate Student Award 
 
 ## OutReach and Mentoring
 * Advisor for Summer K-12 coding camp-Sunshine AI
+* Guest lecturer for Summer 
 
 ## Presentations and Publications
 please see this [page](http://namwob44.github.io/Publications)!
