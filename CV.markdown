@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV Michael Bowman
+title: CV
 permalink: /CV/
 ---
 
