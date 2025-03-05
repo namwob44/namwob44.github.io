@@ -62,6 +62,7 @@ I am a Postdoctoral Researcher in the Cancer Biology Department in the Perelman 
 | Linux/Unix | Arduino         |
 
 ## Wet lab skills
+| Bench Skills				  |
 | --------------------------------------- |
 | DNA extraction                          | 
 | Bone Marrow and Spleen isolation        | 
@@ -76,7 +77,7 @@ I am a Postdoctoral Researcher in the Cancer Biology Department in the Perelman 
 * Advisor for Summer K-12 coding camp-Sunshine AI
 
 ## Presentations and Publications
-please see this [page](http://127.0.0.1:4000/Publications)!
+please see this [page](http://namwob44.github.io/Publications)!
 
 
 [jekyll-organization]: https://github.com/jekyll
