@@ -1,9 +1,10 @@
 ---
 layout: page
-title: CV
+title: CV Michael Bowman
 permalink: /CV/
 ---
 
+[downloadable link for full CV](/Bowman_CV_11042024.pdf)
 
 
 ## Education
@@ -37,8 +38,8 @@ I am a Postdoctoral Researcher in the Cancer Biology Department in the Perelman 
 ## Teaching Experience
 <b>University of Pennsylvania</b>, Philadelphia PA 
 * *Co-Course Designer--Cancer Biology Department--Intro to Bioinformatics for Graduate Students*
-  	- Aided in developing lecture material and practical examples for different types of bioinformatic analysis.
-  	- Co-lecture material and help students with their own projects.
+	- Aided in developing lecture material and practical examples for different types of bioinformatic analysis.
+ 	- Co-lecture material and help students with their own projects.
   	- Provided additional learning resources for self paced learning.
 
 <b>Colorado School of Mines</b>, Golden CO 
@@ -83,6 +84,7 @@ I am a Postdoctoral Researcher in the Cancer Biology Department in the Perelman 
 
 ## Presentations and Publications
 please see this [page](http://namwob44.github.io/Publications)!
+
 
 
 [jekyll-organization]: https://github.com/jekyll
