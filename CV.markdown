@@ -35,6 +35,11 @@ I am a Postdoctoral Researcher in the Cancer Biology Department in the Perelman 
 
 
 ## Teaching Experience
+<b>University of Pennsylvania</b>, Philadelphia PA 
+* *Co-Course Designer--Cancer Biology Department--Intro to Bioinformatics for Graduate Students*
+  	- Aided in developing lecture material and practical examples for different types of bioinformatic analysis.
+  	- Co-lecture material and help students with their own projects.
+  	- Provided additional learning resources for self paced learning.
 <b>Colorado School of Mines</b>, Golden CO 
 * *Graduate Teaching Assistant--Mechanical Engineering--Capstone Senior Design*
 	- Supported reviewing class assignments and facilitated office hours. 
@@ -43,11 +48,11 @@ I am a Postdoctoral Researcher in the Cancer Biology Department in the Perelman 
 	- Aided in preparing ABET accreditation examples and projects.
 * *Graduate Teaching Assistant--Mechanical Engineering--Intro to Robotics*
 	- Guest lecturer for instruction on ROS.
-	- Provided demo projects to facilitate hands-on learning.
+	- Developed and provided demo projects to facilitate hands-on learning.
 	- Assisted students with direction and troubleshooting of their final projects.
 * *Graduate Teaching Assistant--Mechanical Engineering--Advanced Robot Control*
 	- Guest lecturer for instruction on multi-objective optimization.
-	- provided demos to facilitate hands-on learning for techniques used throughout the course in a lab setting.
+	- Provided demos to facilitate hands-on learning for techniques used throughout the course in a lab setting.
 	- Assisted students with direction and trouble shooting of their final projects.
 
 ## Software and Equipment Skills
