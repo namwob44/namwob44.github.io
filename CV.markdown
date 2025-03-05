@@ -40,6 +40,7 @@ I am a Postdoctoral Researcher in the Cancer Biology Department in the Perelman 
   	- Aided in developing lecture material and practical examples for different types of bioinformatic analysis.
   	- Co-lecture material and help students with their own projects.
   	- Provided additional learning resources for self paced learning.
+
 <b>Colorado School of Mines</b>, Golden CO 
 * *Graduate Teaching Assistant--Mechanical Engineering--Capstone Senior Design*
 	- Supported reviewing class assignments and facilitated office hours. 
