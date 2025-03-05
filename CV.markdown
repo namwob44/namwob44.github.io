@@ -73,7 +73,7 @@ I am a Postdoctoral Researcher in the Cancer Biology Department in the Perelman 
 
 ## OutReach and Mentoring
 * Advisor for Summer K-12 coding camp-Sunshine AI
-* Guest lecturer for Summer 
+* Guest lecturer for Summer Internship-Penn Research Administrator Program
 
 ## Presentations and Publications
 please see this [page](http://namwob44.github.io/Publications)!
