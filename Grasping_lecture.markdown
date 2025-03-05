@@ -9,5 +9,5 @@ categories: Grasping Teaching
 
 
 
-Let's talk about the most open problem ever in robotics, Grasping!
+Let's talk about one of the most open problems in robotics, Grasping!
 
