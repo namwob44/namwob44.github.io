@@ -4,6 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
+## Michael Bowman
 [downloadable link for full CV](/Bowman_CV_11042024.pdf)
 
 
