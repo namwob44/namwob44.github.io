@@ -54,8 +54,7 @@ permalink: /Publications/
 ### Work in Preparation and Review
 - **Bowman M**, Bandopadhyay R, Singh V, Shah N, Youn A,  Gounder S, Gandhi A, Telpoukhovskaia M, Trowbridge J, Bowman RL SuperJump: Normal Hematopoiesis and Leukemia State Intent Inference and Lineage Tracking Through Semi-Supervised Jump Diffusion Modeling (under preparation)
 - **Bowman M**, Robinson T, Gounder S, Gandhi A, Shah N, Youn A, Bandopadhyay R, Miles L, Cai S, Levine R, Bowman RL, scDNA: Single Cell DNA analysis software toolkit for subclonality discovery and assessment. (under preparation)
--	Li S, **Bowman M**, Zhang X., A General Arbitration Model for Robust Human-Robot Shared Control with Multi-Source Uncertainty Modeling,
-https://doi.org/10.48550/arXiv.2003.05097
+-	Li S, **Bowman M**, Zhang X., A General Arbitration Model for Robust Human-Robot Shared Control with Multi-Source Uncertainty Modeling, https://doi.org/10.48550/arXiv.2003.05097
 - Jung Y., Tao L., **Bowman M.**, Zhang X., Physics-Guided Hierarchical Reward Mechanism for Learning-Based Multi-Finger Object Grasping, https://doi.org/10.48550/arXiv.2205.13561
 - Stanley M.^, Jung Y^, **Bowman M.**, Tao L., Zhang X., Transferability-based Chain Motion Mapping from Humans to Humanoids for Teleoperation, https://doi.org/10.48550/arXiv.2210.16423
 - Jung Y, Tao L, **Bowman M**, Zhang J, Zhang X. Risk-prioritized Experience Replay for Stable In-hand Manipulation (under review at IEEE ICRA 2025)
